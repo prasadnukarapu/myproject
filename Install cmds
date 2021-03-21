@@ -30,14 +30,7 @@ Install JAVA
 
 		sudo apt-get install jenkins
 		
-		Check - ps -ef|grep jenkins
-		
-		Connect VM - ssh -i c:\Users\xr94\Downloads\key1.pem ubuntu@18.218.76.3
-
 	
-
-	
-
 	Install Maven  ( on Jenkins machine )
 
 	
@@ -45,3 +38,7 @@ Install JAVA
 		cd /tmp ; sudo wget http://apachemirror.wuchna.com/maven/maven-3/3.6.3/binaries/apache-maven-3.6.3-bin.tar.gz
 
 		cd /tmp ; sudo tar -xzf apache-maven-3.6.3-bin.tar.gz -C /opt
+		
+		Check - ps -ef|grep jenkins
+		
+		Connect VM - ssh -i c:\Users\xr94\Downloads\key1.pem ubuntu@18.218.76.3
