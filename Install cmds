@@ -29,6 +29,10 @@ Install JAVA
 		sudo apt-get update
 
 		sudo apt-get install jenkins
+		
+		Check - ps -ef|grep jenkins
+		
+		Connect VM - ssh -i c:\Users\xr94\Downloads\key1.pem ubuntu@18.218.76.3
 
 	
 
