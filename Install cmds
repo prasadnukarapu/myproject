@@ -32,6 +32,10 @@ Install JAVA
 		
 	
 	Install Maven  ( on Jenkins machine )
+	
+	tar -xzf  apache-tomcat-8.5.61.tar.gz -C /opt
+	
+	
 
 	
 
